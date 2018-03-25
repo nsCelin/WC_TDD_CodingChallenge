@@ -1,0 +1,1834 @@
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:LFLF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:RFLF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:RFRFRF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 06:50:25 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 06:50:25 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:LFLFLF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:LF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:FLFF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the first position is F.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  6, pos1 : 3
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : X
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:RFLFRFLF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 06:50:25 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 7, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 7, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The String Input: 6,6:FFLFFLFFLFF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 6. Position2 : 6
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the first position is F.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 6, pos2 : 7, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  7, pos2 : 8
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  8, pos1 : 4
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos2 : 8, pos2 : 7, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  7, pos2 : 6
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos1 : 6
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : X
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:RFRF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 06:50:25 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:LFRF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn right (South to North).
+2018-03-26 06:50:25 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:FRFFF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the first position is F.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 06:50:25 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 7
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 7, prevPos2 :  6, pos1 : 8
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : X
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:FLF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the first position is F.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:FF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the first position is F.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos2 : 7
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : Y
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:FLFLFFRFFF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the first position is F.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : L
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 5, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  5, pos2 : 4
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 06:50:25 [main] INFO :: The positions are :  prevPos1 : 4, pos1 : 3, dir : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 3, prevPos2 :  4, pos1 : 2
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : X
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 2, prevPos2 :  4, pos1 : 1
+2018-03-26 06:50:25 [main] INFO :: The current direction of car : X
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:RF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:50:25 [main] INFO :: The String Input: 5,5:FRF
+2018-03-26 06:50:25 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:50:25 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:50:25 [main] INFO :: The Present Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:50:25 [main] INFO :: When the first position is F.
+2018-03-26 06:50:25 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:50:25 [main] INFO :: The Present Character : R
+2018-03-26 06:50:25 [main] INFO :: The Next Character : F
+2018-03-26 06:50:25 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:50:25 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 06:50:25 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:LFLF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:54:15 [main] INFO :: Actual results :4,4
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:RFLF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 06:54:15 [main] INFO :: Actual results :6,6
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:RFRFRF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 06:54:15 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 06:54:15 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :4,5
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:LFLFLF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :4,5
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:LF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :5,4
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:FLFF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the first position is F.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  6, pos1 : 3
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :6,3
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:RFLFRFLF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 06:54:15 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 7, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 7, dir : Y
+2018-03-26 06:54:15 [main] INFO :: Actual results :7,7
+2018-03-26 06:54:15 [main] INFO :: The String Input: 6,6:FFLFFLFFLFF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 6. Position2 : 6
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the first position is F.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 6, pos2 : 7, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  7, pos2 : 8
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  8, pos1 : 4
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos2 : 8, pos2 : 7, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  7, pos2 : 6
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos1 : 6
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :6,6
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:RFRF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 06:54:15 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:54:15 [main] INFO :: Actual results :4,6
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:LFRF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn right (South to North).
+2018-03-26 06:54:15 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 06:54:15 [main] INFO :: Actual results :6,4
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:FRFFF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the first position is F.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 06:54:15 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 7
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 7, prevPos2 :  6, pos1 : 8
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :6,8
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:FLF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the first position is F.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :6,4
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:FF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the first position is F.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos2 : 7
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : Y
+2018-03-26 06:54:15 [main] INFO :: Actual results :7,5
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:FLFLFFRFFF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the first position is F.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : L
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 5, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  5, pos2 : 4
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 06:54:15 [main] INFO :: The positions are :  prevPos1 : 4, pos1 : 3, dir : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 3, prevPos2 :  4, pos1 : 2
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : X
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 2, prevPos2 :  4, pos1 : 1
+2018-03-26 06:54:15 [main] INFO :: The current direction of car : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :4,1
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:RF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :5,6
+2018-03-26 06:54:15 [main] INFO :: The String Input: 5,5:FRF
+2018-03-26 06:54:15 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:54:15 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:54:15 [main] INFO :: The Present Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:54:15 [main] INFO :: When the first position is F.
+2018-03-26 06:54:15 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:54:15 [main] INFO :: The Present Character : R
+2018-03-26 06:54:15 [main] INFO :: The Next Character : F
+2018-03-26 06:54:15 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:54:15 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 06:54:15 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 06:54:15 [main] INFO :: Actual results :6,6
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:LFLF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:55:48 [main] INFO :: Actual results :4,4
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:RFLF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 06:55:48 [main] INFO :: Actual results :6,6
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:RFRFRF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 06:55:48 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 06:55:48 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :4,5
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:LFLFLF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :4,5
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:LF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :5,4
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:FLFF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the first position is F.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  6, pos1 : 3
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :6,3
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:RFLFRFLF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 06:55:48 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 7, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 7, dir : Y
+2018-03-26 06:55:48 [main] INFO :: Actual results :7,7
+2018-03-26 06:55:48 [main] INFO :: The String Input: 6,6:FFLFFLFFLFF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 6. Position2 : 6
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the first position is F.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 6, pos2 : 7, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  7, pos2 : 8
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  8, pos1 : 4
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos2 : 8, pos2 : 7, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  7, pos2 : 6
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos1 : 6
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :6,6
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:RFRF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 06:55:48 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 06:55:48 [main] INFO :: Actual results :4,6
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:LFRF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn right (South to North).
+2018-03-26 06:55:48 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 06:55:48 [main] INFO :: Actual results :6,4
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:FRFFF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the first position is F.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 06:55:48 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 7
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 7, prevPos2 :  6, pos1 : 8
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :6,8
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:FLF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the first position is F.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :6,4
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:FF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the first position is F.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos2 : 7
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : Y
+2018-03-26 06:55:48 [main] INFO :: Actual results :7,5
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:FLFLFFRFFF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the first position is F.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : L
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 5, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  5, pos2 : 4
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 06:55:48 [main] INFO :: The positions are :  prevPos1 : 4, pos1 : 3, dir : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 3, prevPos2 :  4, pos1 : 2
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : X
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 2, prevPos2 :  4, pos1 : 1
+2018-03-26 06:55:48 [main] INFO :: The current direction of car : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :4,1
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:RF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the starting position is right and forward.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :5,6
+2018-03-26 06:55:48 [main] INFO :: The String Input: 5,5:FRF
+2018-03-26 06:55:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 06:55:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 06:55:48 [main] INFO :: The Present Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 06:55:48 [main] INFO :: When the first position is F.
+2018-03-26 06:55:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 06:55:48 [main] INFO :: The Present Character : R
+2018-03-26 06:55:48 [main] INFO :: The Next Character : F
+2018-03-26 06:55:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 06:55:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 06:55:48 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 06:55:48 [main] INFO :: Actual results :6,6
+2018-03-26 07:01:47 [main] INFO :: The String Input: 5,5:LFLF
+2018-03-26 07:01:47 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:47 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:47 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:47 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:47 [main] INFO :: The Present Character : L
+2018-03-26 07:01:47 [main] INFO :: The Next Character : F
+2018-03-26 07:01:47 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:47 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 07:01:47 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 07:01:47 [main] INFO :: The Present Character : L
+2018-03-26 07:01:47 [main] INFO :: The Next Character : F
+2018-03-26 07:01:47 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:47 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:01:47 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 07:01:47 [main] INFO :: The output : 4,4
+2018-03-26 07:01:47 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:01:47 [main] INFO :: Position along West to East X-Axis : 4
+2018-03-26 07:01:47 [main] INFO :: Actual results :4,4
+2018-03-26 07:01:47 [main] INFO :: The String Input: 5,5:RFLF
+2018-03-26 07:01:47 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:47 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:47 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:47 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:47 [main] INFO :: The Present Character : R
+2018-03-26 07:01:47 [main] INFO :: The Next Character : F
+2018-03-26 07:01:47 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:47 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:01:47 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:01:47 [main] INFO :: The Present Character : L
+2018-03-26 07:01:47 [main] INFO :: The Next Character : F
+2018-03-26 07:01:47 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:47 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 07:01:47 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 07:01:47 [main] INFO :: The output : 6,6
+2018-03-26 07:01:47 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:01:47 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:01:47 [main] INFO :: Actual results :6,6
+2018-03-26 07:01:47 [main] INFO :: The String Input: 5,5:RFRFRF
+2018-03-26 07:01:47 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:47 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:47 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:47 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:47 [main] INFO :: The Present Character : R
+2018-03-26 07:01:47 [main] INFO :: The Next Character : F
+2018-03-26 07:01:47 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:47 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:01:47 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:01:47 [main] INFO :: The Present Character : R
+2018-03-26 07:01:47 [main] INFO :: The Next Character : F
+2018-03-26 07:01:47 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:47 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 07:01:47 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 07:01:47 [main] INFO :: The Present Character : R
+2018-03-26 07:01:47 [main] INFO :: The Next Character : F
+2018-03-26 07:01:47 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:47 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 07:01:47 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The output : 4,5
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 5
+2018-03-26 07:01:48 [main] INFO :: Actual results :4,5
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:LFLFLF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The output : 4,5
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 5
+2018-03-26 07:01:48 [main] INFO :: Actual results :4,5
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:LF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The output : 5,4
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 5
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 4
+2018-03-26 07:01:48 [main] INFO :: Actual results :5,4
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:FLFF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the first position is F.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  6, pos1 : 3
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : X
+2018-03-26 07:01:48 [main] INFO :: The output : 6,3
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 3
+2018-03-26 07:01:48 [main] INFO :: Actual results :6,3
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:RFLFRFLF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : R
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : R
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 07:01:48 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 7, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 7, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The output : 7,7
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 7
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 7
+2018-03-26 07:01:48 [main] INFO :: Actual results :7,7
+2018-03-26 07:01:48 [main] INFO :: The String Input: 6,6:FFLFFLFFLFF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 6. Position2 : 6
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the first position is F.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 6, pos2 : 7, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  7, pos2 : 8
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  8, pos1 : 4
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos2 : 8, pos2 : 7, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  7, pos2 : 6
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos1 : 6
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : X
+2018-03-26 07:01:48 [main] INFO :: The output : 6,6
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Actual results :6,6
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:RFRF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : R
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : R
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 07:01:48 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The output : 4,6
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Actual results :4,6
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:LFRF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : R
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn right (South to North).
+2018-03-26 07:01:48 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The output : 6,4
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 4
+2018-03-26 07:01:48 [main] INFO :: Actual results :6,4
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:FRFFF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the first position is F.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : R
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 07:01:48 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 7
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 7, prevPos2 :  6, pos1 : 8
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : X
+2018-03-26 07:01:48 [main] INFO :: The output : 6,8
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 8
+2018-03-26 07:01:48 [main] INFO :: Actual results :6,8
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:FLF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the first position is F.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 07:01:48 [main] INFO :: The output : 6,4
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 4
+2018-03-26 07:01:48 [main] INFO :: Actual results :6,4
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:FF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the first position is F.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos2 : 7
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : Y
+2018-03-26 07:01:48 [main] INFO :: The output : 7,5
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 7
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 5
+2018-03-26 07:01:48 [main] INFO :: Actual results :7,5
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:FLFLFFRFFF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the first position is F.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : L
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 5, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  5, pos2 : 4
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : R
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 07:01:48 [main] INFO :: The positions are :  prevPos1 : 4, pos1 : 3, dir : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 3, prevPos2 :  4, pos1 : 2
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : X
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 2, prevPos2 :  4, pos1 : 1
+2018-03-26 07:01:48 [main] INFO :: The current direction of car : X
+2018-03-26 07:01:48 [main] INFO :: The output : 4,1
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 1
+2018-03-26 07:01:48 [main] INFO :: Actual results :4,1
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:RF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : R
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:01:48 [main] INFO :: The output : 5,6
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 5
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Actual results :5,6
+2018-03-26 07:01:48 [main] INFO :: The String Input: 5,5:FRF
+2018-03-26 07:01:48 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:01:48 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:01:48 [main] INFO :: The Present Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:01:48 [main] INFO :: When the first position is F.
+2018-03-26 07:01:48 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:01:48 [main] INFO :: The Present Character : R
+2018-03-26 07:01:48 [main] INFO :: The Next Character : F
+2018-03-26 07:01:48 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:01:48 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 07:01:48 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 07:01:48 [main] INFO :: The output : 6,6
+2018-03-26 07:01:48 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:01:48 [main] INFO :: Actual results :6,6
+2018-03-26 07:02:24 [main] INFO :: Entering the Spring Boot Application.
+2018-03-26 07:02:25 [main] INFO :: Starting ParkingSystem on CELINSEBASTEBB3 with PID 5708 (C:\Users\jecelin\eclipse-workspace\parkingSystem\target\classes started by jecelin in C:\Users\jecelin\eclipse-workspace\parkingSystem)
+2018-03-26 07:02:25 [main] INFO :: No active profile set, falling back to default profiles: default
+2018-03-26 07:02:25 [main] INFO :: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1e965684: startup date [Mon Mar 26 07:02:25 AEDT 2018]; root of context hierarchy
+2018-03-26 07:02:26 [main] INFO :: Registering beans for JMX exposure on startup
+2018-03-26 07:02:26 [main] INFO :: Started ParkingSystem in 1.518 seconds (JVM running for 2.599)
+2018-03-26 07:02:39 [main] INFO :: Calling the Context Class.
+2018-03-26 07:02:39 [main] INFO :: The String Input: 6,6:FFLFFLFFLFF
+2018-03-26 07:02:39 [main] INFO :: Entering the ParkingSystemContext setContext Method.
+2018-03-26 07:02:39 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:02:39 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:02:39 [main] INFO :: Entering the input positions. Position1 : 6. Position2 : 6
+2018-03-26 07:02:39 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:02:39 [main] INFO :: The Present Character : F
+2018-03-26 07:02:39 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:02:39 [main] INFO :: When the first position is F.
+2018-03-26 07:02:39 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 6, pos2 : 7, dir : Y
+2018-03-26 07:02:39 [main] INFO :: The Present Character : F
+2018-03-26 07:02:39 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:02:39 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 07:02:39 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  7, pos2 : 8
+2018-03-26 07:02:39 [main] INFO :: The current direction of car : Y
+2018-03-26 07:02:39 [main] INFO :: The Present Character : L
+2018-03-26 07:02:39 [main] INFO :: The Next Character : F
+2018-03-26 07:02:39 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:02:39 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:02:39 [main] INFO :: The positions are : prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 07:02:39 [main] INFO :: The Present Character : F
+2018-03-26 07:02:39 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:02:39 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:02:39 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  8, pos1 : 4
+2018-03-26 07:02:39 [main] INFO :: The current direction of car : X
+2018-03-26 07:02:39 [main] INFO :: The Present Character : L
+2018-03-26 07:02:39 [main] INFO :: The Next Character : F
+2018-03-26 07:02:39 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:02:39 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:02:39 [main] INFO :: The positions are : prevPos2 : 8, pos2 : 7, dir : Y
+2018-03-26 07:02:39 [main] INFO :: The Present Character : F
+2018-03-26 07:02:39 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:02:39 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 07:02:39 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  7, pos2 : 6
+2018-03-26 07:02:39 [main] INFO :: The current direction of car : Y
+2018-03-26 07:02:39 [main] INFO :: The Present Character : L
+2018-03-26 07:02:39 [main] INFO :: The Next Character : F
+2018-03-26 07:02:39 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:02:39 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 07:02:39 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 07:02:39 [main] INFO :: The Present Character : F
+2018-03-26 07:02:39 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:02:39 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 07:02:39 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos1 : 6
+2018-03-26 07:02:39 [main] INFO :: The current direction of car : X
+2018-03-26 07:02:39 [main] INFO :: The output : 6,6
+2018-03-26 07:02:39 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:02:39 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:02:39 [Thread-2] INFO :: Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1e965684: startup date [Mon Mar 26 07:02:25 AEDT 2018]; root of context hierarchy
+2018-03-26 07:02:39 [Thread-2] INFO :: Unregistering JMX-exposed beans on shutdown
+2018-03-26 07:02:52 [main] INFO :: Entering the Spring Boot Application.
+2018-03-26 07:02:53 [main] INFO :: Starting ParkingSystem on CELINSEBASTEBB3 with PID 7268 (C:\Users\jecelin\eclipse-workspace\parkingSystem\target\classes started by jecelin in C:\Users\jecelin\eclipse-workspace\parkingSystem)
+2018-03-26 07:02:53 [main] INFO :: No active profile set, falling back to default profiles: default
+2018-03-26 07:02:53 [main] INFO :: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1e965684: startup date [Mon Mar 26 07:02:53 AEDT 2018]; root of context hierarchy
+2018-03-26 07:02:54 [main] INFO :: Registering beans for JMX exposure on startup
+2018-03-26 07:02:54 [main] INFO :: Started ParkingSystem in 1.416 seconds (JVM running for 1.889)
+2018-03-26 07:03:04 [main] INFO :: Calling the Context Class.
+2018-03-26 07:03:04 [main] INFO :: The String Input: 5,5:FLFLFFRFFF
+2018-03-26 07:03:04 [main] INFO :: Entering the ParkingSystemContext setContext Method.
+2018-03-26 07:03:04 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:04 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:04 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:04 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:04 [main] INFO :: The Present Character : F
+2018-03-26 07:03:04 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:04 [main] INFO :: When the first position is F.
+2018-03-26 07:03:04 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:04 [main] INFO :: The Present Character : L
+2018-03-26 07:03:04 [main] INFO :: The Next Character : F
+2018-03-26 07:03:04 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:04 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:03:04 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 07:03:04 [main] INFO :: The Present Character : L
+2018-03-26 07:03:04 [main] INFO :: The Next Character : F
+2018-03-26 07:03:04 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:04 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:03:04 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 5, dir : Y
+2018-03-26 07:03:04 [main] INFO :: The Present Character : F
+2018-03-26 07:03:04 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:04 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 07:03:04 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  5, pos2 : 4
+2018-03-26 07:03:04 [main] INFO :: The current direction of car : Y
+2018-03-26 07:03:04 [main] INFO :: The Present Character : R
+2018-03-26 07:03:04 [main] INFO :: The Next Character : F
+2018-03-26 07:03:04 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:04 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 07:03:04 [main] INFO :: The positions are :  prevPos1 : 4, pos1 : 3, dir : X
+2018-03-26 07:03:04 [main] INFO :: The Present Character : F
+2018-03-26 07:03:04 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:04 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:03:04 [main] INFO :: The positions are : prevPos1 : 3, prevPos2 :  4, pos1 : 2
+2018-03-26 07:03:04 [main] INFO :: The current direction of car : X
+2018-03-26 07:03:04 [main] INFO :: The Present Character : F
+2018-03-26 07:03:04 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:04 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:03:04 [main] INFO :: The positions are : prevPos1 : 2, prevPos2 :  4, pos1 : 1
+2018-03-26 07:03:04 [main] INFO :: The current direction of car : X
+2018-03-26 07:03:04 [main] INFO :: The output : 4,1
+2018-03-26 07:03:04 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:03:04 [main] INFO :: Position along West to East X-Axis : 1
+2018-03-26 07:03:04 [Thread-2] INFO :: Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1e965684: startup date [Mon Mar 26 07:02:53 AEDT 2018]; root of context hierarchy
+2018-03-26 07:03:04 [Thread-2] INFO :: Unregistering JMX-exposed beans on shutdown
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:LFLF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The output : 4,4
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 4
+2018-03-26 07:03:19 [main] INFO :: Actual results :4,4
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:RFLF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The output : 6,6
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Actual results :6,6
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:RFRFRF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 07:03:19 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 07:03:19 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The output : 4,5
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 5
+2018-03-26 07:03:19 [main] INFO :: Actual results :4,5
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:LFLFLF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The output : 4,5
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 5
+2018-03-26 07:03:19 [main] INFO :: Actual results :4,5
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:LF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The output : 5,4
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 5
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 4
+2018-03-26 07:03:19 [main] INFO :: Actual results :5,4
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:FLFF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the first position is F.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  6, pos1 : 3
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : X
+2018-03-26 07:03:19 [main] INFO :: The output : 6,3
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 3
+2018-03-26 07:03:19 [main] INFO :: Actual results :6,3
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:RFLFRFLF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 07:03:19 [main] INFO :: The positions are :  prevPos1 : 6, pos1 : 7, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn left (South to North).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 7, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The output : 7,7
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 7
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 7
+2018-03-26 07:03:19 [main] INFO :: Actual results :7,7
+2018-03-26 07:03:19 [main] INFO :: The String Input: 6,6:FFLFFLFFLFF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 6. Position2 : 6
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the first position is F.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 6, pos2 : 7, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  7, pos2 : 8
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 6, pos1 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  8, pos1 : 4
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos2 : 8, pos2 : 7, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  7, pos2 : 6
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn left (West to East).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 4, pos1 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos1 : 6
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : X
+2018-03-26 07:03:19 [main] INFO :: The output : 6,6
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Actual results :6,6
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:RFRF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(West to East) and car wants to turn right (North to South).
+2018-03-26 07:03:19 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 4, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The output : 4,6
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Actual results :4,6
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:LFRF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the starting point is Left and Forward.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 4, pos2 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn right (South to North).
+2018-03-26 07:03:19 [main] INFO :: The positions are :  prevPos2 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The output : 6,4
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 4
+2018-03-26 07:03:19 [main] INFO :: Actual results :6,4
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:FRFFF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the first position is F.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 07:03:19 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 6, prevPos2 :  6, pos1 : 7
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(West to East) and car wants to move forward along X-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 7, prevPos2 :  6, pos1 : 8
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : X
+2018-03-26 07:03:19 [main] INFO :: The output : 6,8
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 8
+2018-03-26 07:03:19 [main] INFO :: Actual results :6,8
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:FLF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the first position is F.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 07:03:19 [main] INFO :: The output : 6,4
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 4
+2018-03-26 07:03:19 [main] INFO :: Actual results :6,4
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:FF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the first position is F.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to move forward along Y-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  6, pos2 : 7
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : Y
+2018-03-26 07:03:19 [main] INFO :: The output : 7,5
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 7
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 5
+2018-03-26 07:03:19 [main] INFO :: Actual results :7,5
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:FLFLFFRFFF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the first position is F.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn left (East to West).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, pos1 : 4, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : L
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Left and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(East to West) and car wants to turn left (North to South).
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos2 : 6, pos2 : 5, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to move forward along Y-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 4, prevPos2 :  5, pos2 : 4
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(North to South) and car wants to turn right (East to West).
+2018-03-26 07:03:19 [main] INFO :: The positions are :  prevPos1 : 4, pos1 : 3, dir : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 3, prevPos2 :  4, pos1 : 2
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : X
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the direction is along X-axis(East to West) and car wants to move forward along X-axis.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 2, prevPos2 :  4, pos1 : 1
+2018-03-26 07:03:19 [main] INFO :: The current direction of car : X
+2018-03-26 07:03:19 [main] INFO :: The output : 4,1
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 4
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 1
+2018-03-26 07:03:19 [main] INFO :: Actual results :4,1
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:RF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the starting position is right and forward.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 : 5, pos1 : 6, pos2 : 5, dir : X
+2018-03-26 07:03:19 [main] INFO :: The output : 5,6
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 5
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Actual results :5,6
+2018-03-26 07:03:19 [main] INFO :: The String Input: 5,5:FRF
+2018-03-26 07:03:19 [main] INFO :: Entering the ProcessInput Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the PresentArrayInputs Method.
+2018-03-26 07:03:19 [main] INFO :: Entering the input positions. Position1 : 5. Position2 : 5
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method.
+2018-03-26 07:03:19 [main] INFO :: The Present Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the processCommands Method. The Present Character is F.
+2018-03-26 07:03:19 [main] INFO :: When the first position is F.
+2018-03-26 07:03:19 [main] INFO :: The positions are : prevPos1 : 5, prevPos2 :  5, pos1 : 5, pos2 : 6, dir : Y
+2018-03-26 07:03:19 [main] INFO :: The Present Character : R
+2018-03-26 07:03:19 [main] INFO :: The Next Character : F
+2018-03-26 07:03:19 [main] INFO :: Entering the loop for Right and Forward Logic
+2018-03-26 07:03:19 [main] INFO :: When the direction is along Y-axis(South to North) and car wants to turn right (West to East).
+2018-03-26 07:03:19 [main] INFO :: The positions are :  prevPos1 : 5, pos1 : 6, dir : X
+2018-03-26 07:03:19 [main] INFO :: The output : 6,6
+2018-03-26 07:03:19 [main] INFO :: Position along North to South Y-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Position along West to East X-Axis : 6
+2018-03-26 07:03:19 [main] INFO :: Actual results :6,6
