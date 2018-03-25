@@ -5,6 +5,8 @@
    ParkingSystemContext is the context class where Interface class is injected.
 * The solution is designed and coded in Windows OS on Eclipse IDE.
 * JUnit has been used to develop TDD.
+* The log file configured is Slf4j. It is getting generated inside the project folder Logs.
+
 
 To run this Program
 * Import to project to an IDE and  built this maven project. 
