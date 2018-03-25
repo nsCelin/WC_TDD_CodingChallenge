@@ -4,6 +4,7 @@
 * The Design Pattern utilised in this solution is Strategy Design pattern. 
    ParkingSystemContext is the context class where Interface class is injected.
 * The solution is designed and coded in Windows OS on Eclipse IDE.
+* JUnit has been used to develop TDD.
 
 To run this Program
 * Import to project to an IDE and  built this maven project. 
